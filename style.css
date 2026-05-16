@@ -3,12 +3,7 @@ header
     display: flex;
 }
 
-haeder h1
-{
-    color: Red;
-}
-
-haeder h3
+.red
 {
     color: Red;
 }
